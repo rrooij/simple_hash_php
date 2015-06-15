@@ -18,5 +18,7 @@
         ?>
             <p>The hash is: <?php echo $hash ?></p>
         <?php endif; ?>
+
+        <a href="https://github.com/rrooij/simple_hash_php/">Source</a>
     </body>
 </html>
